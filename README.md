@@ -169,19 +169,6 @@ Aprenda sobre as estruturas de dados mais usadas, Big O e análise de complexida
 
 ---
 
-## 🎯 Instruções para AI Agents
-
-O arquivo `.github/copilot-instructions.md` contém instruções específicas para auxiliar AI agents (como GitHub Copilot) a ser produtivos neste codebase.
-
-Cobre:
-- Organização e estrutura do projeto
-- Convenções de nomenclatura
-- Foco educacional
-- Como organizar novo conteúdo
-- Práticas a evitar
-
----
-
 ## 🚀 Como Usar Este Repositório
 
 ### Para Iniciantes
